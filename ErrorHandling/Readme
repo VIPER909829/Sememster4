@@ -1,6 +1,7 @@
 Assignment-3: Error Handling in Java  
 
-This file contains Assignment-3 for CSW2 (CSE 3141), focused on Error Handling in Java. It covers key concepts such as exception handling, custom exceptions, nested try-catch blocks, and handling various Java exceptions like `NullPointerException`, `NumberFormatException`, `ArrayIndexOutOfBoundsException`, and `IOException`.  
+This file contains Assignment-3 for CSW2 (CSE 3141), focused on Error Handling in Java. It covers key concepts such as exception handling, custom exceptions, nested try-catch blocks, 
+and handling various Java exceptions like `NullPointerException`, `NumberFormatException`, `ArrayIndexOutOfBoundsException`, and `IOException`.  
 
 ### Topics Covered:  
 ✅ Extracting numeric characters from a string with error handling  
