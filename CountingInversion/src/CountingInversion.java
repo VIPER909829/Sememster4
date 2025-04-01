@@ -35,3 +35,10 @@ public class CountingInversion {
         System.out.println("\nTotal Inversions: " + inversionCount);
     }
 }
+/*INPUT:
+    1 20 6 4 5
+ OUTPUT:
+    Sorted Array:
+    1 4 5 6 20 
+    Total Inversions: 5
+*/
