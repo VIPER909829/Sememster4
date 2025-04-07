@@ -1,0 +1,57 @@
+--- Q1 ---
+a == b: true
+a == c: false
+a.equals(c): true
+
+--- Q2 ---
+After concat (immutable): Test
+Char at index 2: s
+
+--- Q3 ---
+Edited Text (Buffer): dlroW avaJolle
+Length: 12
+Capacity: 21
+
+--- Q4 ---
+Edited Text (Builder): ode Java Editor
+
+--- Q5 ---
+Equals Ignore Case: true
+To Upper Case: HELLO
+To Lower Case: hello
+
+--- Q7 ---
+After Replacement: I like bananas
+
+--- Q9 ---
+File already exists.
+
+--- Q10 ---
+Hello File
+
+--- Q11 ---
+Diary entry added.
+
+--- Q12 ---
+Assg5.class
+Assg5.java
+demo.txt
+diary.txt
+dest.txt
+source.txt
+new.txt
+... (other system/project files)
+
+--- Q13 ---
+File does not exist.
+
+--- Q14 ---
+source.txt was missing, so it was created with sample content.
+File content copied from source.txt to dest.txt.
+
+--- Q15 ---
+Rename failed.
+
+--- Q16 ---
+File Length: 10
+Last Modified: Sun Apr 07 HH:MM:SS IST 2025
